@@ -1,0 +1,13 @@
+*{
+    background-color: #111827;
+    box-sizing: border-box;
+    border-width: 0;
+    border-style: solid;
+    border-color: #e5e7eb;
+    padding: 24px;
+}
+
+a{
+    color: white;
+}
+
